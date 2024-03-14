@@ -23,4 +23,6 @@ function myFunction() {
   
   let Venti = Vent1
 
+  let deci = Venti
+
 }
